@@ -30,7 +30,7 @@ function createProductCard(product) {
         <h3 class="product-title">${product.title}</h3>
         <p class="product-description">${product.description}</p>
         <a class="product-button" href="${product.link}" target="_blank" rel="noopener noreferrer">
-          View on Amazon
+          Watch Out 👀 Check Price
         </a>
       </div>
     </article>
